@@ -1,0 +1,43 @@
+ul {
+    text-align: right;
+    list-style-position: inside;
+}
+
+.title {
+    color: #ff0000;
+    text-align: center;
+}
+
+.recipe-1 {
+    font-family: monospace, serif;
+    font-size: 36px;
+    background: #91ff00;
+    float: right;
+}
+
+.recipe-1 .recipe_1 {
+    background-color: aqua;
+}
+
+.recipe-2 {
+    font-size: 48px;
+    font-weight: 700;
+    background-color: #ffd000;
+    text-align: center;
+}
+
+.recipe-2 .recipe_2 {
+    color: #ff0000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.recipe-3 {
+    font-size: 60px;
+    text-align: left;
+}
+
+.recipe-3 .recipe_3 {
+    background-color: #ffd000;
+    color: #ff00f2;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
