@@ -1,0 +1,61 @@
+.title-1 {
+    text-align: center;
+    font-weight: 700;
+}
+
+.title-1 h1 {
+    display: inline-block;
+    font-family: 'Rock Salt', cursive;
+    background-color: aqua;
+    color: #fd0000;
+    font-size: 48px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+}
+
+.title-2 {
+    text-align: center;
+}
+
+.title-2 h1 {
+    display: inline-block;
+    font-family: 'Aclonica', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 60px;
+    color: #3cff00;
+    background-color: #000000;
+}
+
+.center1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 600px;
+}
+
+.title-3 {
+    text-align: center;
+}
+
+.title-3 h1 {
+    font-family: 'Aclonica', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Rock Salt', cursive;
+    color: blueviolet;
+}
+
+.center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 400px;
+}
