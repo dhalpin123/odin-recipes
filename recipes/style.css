@@ -9,6 +9,7 @@
     background-color: aqua;
     color: #fd0000;
     font-size: 48px;
+    text-decoration: underline black;
 }
 
 .center {
@@ -58,4 +59,26 @@
     margin-right: auto;
     height: auto;
     width: 400px;
+}
+
+.Heading {
+    color: rgb(0, 60, 255);
+    text-decoration: underline #f501f5;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    background-color: rgb(0, 238, 255);
+}
+
+.List {
+    color: rgb(200, 255, 0);
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    display: inline-block;
+    background-color: rgb(237, 100, 134);
+}
+
+#Paragraph1 {
+    color: #ff00d4;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    background-color: #3cff00;
 }
