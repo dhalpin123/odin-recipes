@@ -51,6 +51,9 @@
     font-family: 'Noto Sans JP', sans-serif;
     font-family: 'Rock Salt', cursive;
     color: blueviolet;
+    text-decoration: underline greenyellow;
+    display: inline-block;
+    background-color: #000000;
 }
 
 .center2 {
@@ -72,13 +75,75 @@
 .List {
     color: rgb(200, 255, 0);
     font-family: 'Kdam Thmor Pro', sans-serif;
+    font-weight: 700;
     display: inline-block;
     background-color: rgb(237, 100, 134);
 }
 
-#Paragraph1 {
+#Paragraph {
     color: #ff00d4;
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
     background-color: #3cff00;
+}
+
+#JakesSandwich {
+    font-family: 'Blaka', cursive;
+    font-size: 56px;
+    color: #3cff00;
+    display: inline-block;
+    background-color: #f501f5;
+    text-decoration: underline black;
+}
+
+#Paragraph1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    background-color: #fd0000;
+    color: aquamarine;
+}
+
+.Heading1 {
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+    background-color: bisque;
+    color: #f501f5;
+}
+
+.List1 {
+    font-family: 'Rock Salt', cursive;
+    display: inline-block;
+    background-color: burlywood;
+}
+
+#DeathSandwich {
+    font-family: 'Lobster', cursive;
+    font-size: 48px;
+    text-decoration: line-through;
+    color: #f501f5;
+    display: inline-block;
+    background-color: green;
+}
+
+#Paragraph2 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: yellow;
+    color: #ff0000;
+    text-decoration: underline overline black;
+}
+
+.Heading2 {
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    background-color: #3cff00;
+}
+
+.List2 {
+    display: inline-block;
+    background-color: purple;
+    color: aliceblue;
+    font-family: 'Aclonica', sans-serif;
+    font-size: medium;
+    color: aquamarine;
 }
